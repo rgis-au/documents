@@ -17,6 +17,6 @@ Vacancies are available in the following locations:
 
 | HILLCREST - HAMILTON | SATURDAY 29TH APRIL | [APPLY](mailto:tfaala@rgis.co.nz?subject=HILLCREST%20-%20SATURDAY%2029TH%20APRIL) |
 
-| MASTERTON | SATURDAY 6TH MAY | [APPLY](mailto:tfaala@rgis.co.nz?subject=MASTERTON%20-%20SATURDAY%206TH%20MAY) |
+| RANGIORA | SATURDAY 29TH APRIL | [APPLY](mailto:tfaala@rgis.co.nz?subject=RANGIORA%20-%20SATURDAY%2029TH%20APRIL) |
 
 | TOKOROA | SATURDAY 6TH MAY | [APPLY](mailto:tfaala@rgis.co.nz?subject=TOKOROA%20-%20SATURDAY%206TH%20MAY) |
