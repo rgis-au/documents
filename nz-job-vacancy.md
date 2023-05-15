@@ -3,10 +3,6 @@ Vacancies are available in the following locations:
 | Location | Date | Apply |
 |---|---|---|
 
-| PETONE, WELLINGTON | SATURDAY 13TH MAY | [APPLY](mailto:tfaala@rgis.co.nz?subject=PETONE%20-%20SATURDAY%2013TH%20MAY) |
-
-| GISBORNE | SATURDAY 13TH MAY | [APPLY](mailto:tfaala@rgis.co.nz?subject=GISBORNE%20-%20SATURDAY%2013TH%20MAY) |
-
 | SILVERDALE | SATURDAY 20TH MAY | [APPLY](mailto:tfaala@rgis.co.nz?subject=SILVERDALE%20-%20SATURDAY%2020TH%20MAY) |
 
 | UPPER HUTT | SATURDAY 20TH MAY | [APPLY](mailto:tfaala@rgis.co.nz?subject=UPPER%20HUTT%20-%20SATURDAY%2020TH%20MAY) |
@@ -20,3 +16,7 @@ Vacancies are available in the following locations:
 | PARAPARAUMU | SATURDAY 10TH JUNE | [APPLY](mailto:tfaala@rgis.co.nz?subject=PARAPARAUMU%20-%20SATURDAY%2010TH%20JUNE) |
 
 | ROLLESTON | SATURDAY 10TH JUNE | [APPLY](mailto:tfaala@rgis.co.nz?subject=ROLLESTON%20-%20SATURDAY%2010TH%20JUNE) |
+
+| MORRINSVILLE | MONDAY 12TH JUNE | [APPLY](mailto:tfaala@rgis.co.nz?subject=MORRINSVILLE%20-%20MONDAY%2012TH%20JUNE) |
+
+| TAURANGA | SATURDAY 17TH JUNE | [APPLY](mailto:tfaala@rgis.co.nz?subject=TAURANGA%20-%20SATURDAY%2017TH%20JUNE) |
