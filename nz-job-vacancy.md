@@ -3,8 +3,6 @@ Vacancies are available in the following locations:
 | Location | Date | Apply |
 |---|---|---|
 
-| TAURANGA | SATURDAY 17TH JUNE | [APPLY](mailto:tfaala@rgis.co.nz?subject=TAURANGA%20-%20SATURDAY%2017TH%20JUNE) |
-
 | BLENHEIM | SATURDAY 24TH JUNE | [APPLY](mailto:tfaala@rgis.co.nz?subject=BLENHEIM%20-%20SATURDAY%2024TH%20JUNE) |
 
 | THAMES | SATURDAY 24TH JUNE | [APPLY](mailto:tfaala@rgis.co.nz?subject=THAMES%20-%20SATURDAY%2024TH%20JUNE) |
@@ -20,3 +18,5 @@ Vacancies are available in the following locations:
 | TE AWAMUTU | SATURDAY 8TH JULY | [APPLY](mailto:tfaala@rgis.co.nz?subject=TE%20AWAMUTU%20-%20SATURDAY%208TH%20JULY) |
 
 | RICHMOND, NELSON | SATURDAY 8TH JULY | [APPLY](mailto:tfaala@rgis.co.nz?subject=RICHMOND%20NELSON%20-%20SATURDAY%208TH%20JULY) |
+
+| AUCKLAND AIRPORT | MONDAY 10TH JULY | [APPLY](mailto:tfaala@rgis.co.nz?subject=AUCKLAND%20AIRPORT%20-%20MONDAY%2010TH%20JULY) |
