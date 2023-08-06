@@ -3,8 +3,6 @@ Vacancies are available in the following locations:
 | Location | Date | Apply |
 |---|---|---|
 
-| TIMARU | SATURDAY 5TH AUGUST | [APPLY](mailto:tfaala@rgis.co.nz?subject=TIMARU%20-%20SATURDAY%205TH%20AUGUST) |
-
 | WHANGAREI | SATURDAY 12TH AUGUST | [APPLY](mailto:tfaala@rgis.co.nz?subject=WHANGAREI%20-%20SATURDAY%2012TH%20AUGUST) |
 
 | MANUKAU | SUNDAY 13TH AUGUST | [APPLY](mailto:tfaala@rgis.co.nz?subject=MANUKAU%20-%20SUNDAY%2013TH%20AUGUST) |
@@ -20,3 +18,5 @@ Vacancies are available in the following locations:
 |HASTINGS|SATURDAY 9TH SEPTEMBER| [APPLY](mailto:tfaala@rgis.co.nz?subject=HASTINGS%20-%20SATURDAY%209TH%20SEPTEMBER) |
 
 |LYALL BAY, WELLINGTON|MONDAY 11TH SEPTEMBER| [APPLY](mailto:tfaala@rgis.co.nz?subject=LYALL%20BAY%20-%20MONDAY%2011TH%20SEPTEMBER) |
+
+|KAIKOHE|SATURDAY 16TH SEPTEMBER| [APPLY](mailto:tfaala@rgis.co.nz?subject=KAIKOHE%20-%20SATURDAY%2016TH%20SEPTEMBER) |
