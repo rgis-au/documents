@@ -3,10 +3,6 @@ Vacancies are available in the following locations:
 | Location | Date | Apply |
 |---|---|---|
 
-| WHANGAREI | SATURDAY 12TH AUGUST | [APPLY](mailto:tfaala@rgis.co.nz?subject=WHANGAREI%20-%20SATURDAY%2012TH%20AUGUST) |
-
-| MANUKAU | SUNDAY 13TH AUGUST | [APPLY](mailto:tfaala@rgis.co.nz?subject=MANUKAU%20-%20SUNDAY%2013TH%20AUGUST) |
-
 | TAUPO | SATURDAY 19TH AUGUST | [APPLY](mailto:tfaala@rgis.co.nz?subject=TAUPO%20-%20SATURDAY%2019TH%20AUGUST) |
 
 | CHRISTCHURCH | SATURDAY 19TH AUGUST | [APPLY](mailto:tfaala@rgis.co.nz?subject=CHRISTCHURCH%20-%20SATURDAY%2019TH%20AUGUST) |
@@ -20,3 +16,7 @@ Vacancies are available in the following locations:
 |LYALL BAY, WELLINGTON|MONDAY 11TH SEPTEMBER| [APPLY](mailto:tfaala@rgis.co.nz?subject=LYALL%20BAY%20-%20MONDAY%2011TH%20SEPTEMBER) |
 
 |KAIKOHE|SATURDAY 16TH SEPTEMBER| [APPLY](mailto:tfaala@rgis.co.nz?subject=KAIKOHE%20-%20SATURDAY%2016TH%20SEPTEMBER) |
+
+|INVERCARGILL|SATURDAY 16TH SEPTEMBER| [APPLY](mailto:tfaala@rgis.co.nz?subject=INVERCARGILL%20-%20SATURDAY%2016TH%20SEPTEMBER) |
+
+|CAMBRIDGE|SATURDAY 23RD SEPTEMBER| [APPLY](mailto:tfaala@rgis.co.nz?subject=CAMBRIDGE%20-%20SATURDAY%2023RD%20SEPTEMBER) |
