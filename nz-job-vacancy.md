@@ -3,10 +3,6 @@ Vacancies are available in the following locations:
 | Location | Date | Apply |
 |---|---|---|
 
-| TAUPO | SATURDAY 19TH AUGUST | [APPLY](mailto:tfaala@rgis.co.nz?subject=TAUPO%20-%20SATURDAY%2019TH%20AUGUST) |
-
-| CHRISTCHURCH | SATURDAY 19TH AUGUST | [APPLY](mailto:tfaala@rgis.co.nz?subject=CHRISTCHURCH%20-%20SATURDAY%2019TH%20AUGUST) |
-
 | CHRISTCHURCH | SATURDAY 9TH SEPTEMBER | [APPLY](mailto:tfaala@rgis.co.nz?subject=CHRISTCHURCH%20-%20SATURDAY%209TH%20SEPTEMBER) |
 
 |SYLVIA PARK, AUCKLAND|SATURDAY 9TH SEPTEMBER| [APPLY](mailto:tfaala@rgis.co.nz?subject=SYLVIA%20PARK%20-%20SATURDAY%209TH%20SEPTEMBER) |
@@ -19,4 +15,8 @@ Vacancies are available in the following locations:
 
 |INVERCARGILL|SATURDAY 16TH SEPTEMBER| [APPLY](mailto:tfaala@rgis.co.nz?subject=INVERCARGILL%20-%20SATURDAY%2016TH%20SEPTEMBER) |
 
-|CAMBRIDGE|SATURDAY 23RD SEPTEMBER| [APPLY](mailto:tfaala@rgis.co.nz?subject=CAMBRIDGE%20-%20SATURDAY%2023RD%20SEPTEMBER) |
+|CAMBRIDGE|SATURDAY 23RD SEPTEMBER| [APPLY](mailto:tfaala@rgis.co.nz?subject=CAMBRIDGE%20-%20SATURDAY%2023RD%20SEPTEMBER)
+
+|PUKEKOHE|SATURDAY 30TH SEPTEMBER| [APPLY](mailto:tfaala@rgis.co.nz?subject=PUKEKOHE%20-%20SATURDAY%2030TH%20SEPTEMBER) |
+
+|KAITAIA|SUNDAY 1ST OCTOBER| [APPLY](mailto:tfaala@rgis.co.nz?subject=KAITAIA%20-%20SUNDAY%201ST%20OCTOBER) |
