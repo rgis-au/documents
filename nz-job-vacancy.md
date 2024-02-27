@@ -3,12 +3,6 @@ Vacancies are available in the following locations:
 | Location | Date | Apply |
 |---|---|---|
 
-|ORMISTON, AUCKLAND|SATURDAY 24TH FEBRUARY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=ORMISTON%20-%20SATURDAY%2024TH%20FEBRUARY)
-
-|QUEENSTOWN|SATURDAY 24TH FEBRUARY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=QUEENSTOWN%20-%20SATURDAY%2024TH%20FEBRUARY) |
-
-|WHANGANUI|SATURDAY 24TH FEBRUARY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=WHAKATANE%20-%20SATURDAY%2024TH%20FEBRUARY) |
-
 |GISBORNE|SATURDAY 2ND MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=GISBORNE%20-%20SATURDAY%202ND%20MARCH)
 
 |GORE|SATURDAY 2ND MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=GORE%20-%20SATURDAY%202ND%20MARCH) |
@@ -20,3 +14,9 @@ Vacancies are available in the following locations:
 |PAPAMOA, TAURANGA|SATURDAY 9TH MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=PAPAMOA%20-%20SATURDAY%209TH%20MARCH) |
 
 |PORIRUA|SATURDAY 9TH MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=PORIRUA%20-%20SATURDAY%209TH%20MARCH) |
+
+|ALEXANDRA|SATURDAY 15TH MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=ALEXANDRA%20-%20SATURDAY%2015TH%20MARCH)
+
+|BOTANY DOWNS, AUCKLAND|SATURDAY 15TH MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=BOTANY%20-%20SATURDAY%2015TH%20MARCH) |
+
+|DARGAVILLE|SATURDAY 15TH MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=DARGAVILLE%20-%20SATURDAY%2015TH%20MARCH) |
