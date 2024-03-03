@@ -3,12 +3,6 @@ Vacancies are available in the following locations:
 | Location | Date | Apply |
 |---|---|---|
 
-|GISBORNE|SATURDAY 2ND MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=GISBORNE%20-%20SATURDAY%202ND%20MARCH)
-
-|GORE|SATURDAY 2ND MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=GORE%20-%20SATURDAY%202ND%20MARCH) |
-
-|TAKANINI, AUCKLAND|SATURDAY 2ND MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=TAKANINI%20-%20SATURDAY%202ND%20MARCH) |
-
 |BALCLUTHA|SATURDAY 9TH MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=BALCLUTHA%20-%20SATURDAY%209TH%20MARCH)
 
 |PAPAMOA, TAURANGA|SATURDAY 9TH MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=PAPAMOA%20-%20SATURDAY%209TH%20MARCH) |
@@ -20,3 +14,9 @@ Vacancies are available in the following locations:
 |BOTANY DOWNS, AUCKLAND|SATURDAY 15TH MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=BOTANY%20-%20SATURDAY%2015TH%20MARCH) |
 
 |DARGAVILLE|SATURDAY 15TH MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=DARGAVILLE%20-%20SATURDAY%2015TH%20MARCH) |
+
+|TE KUITI|SATURDAY 23RD MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=TE%20KUITI%20-%20SATURDAY%2023RD%20MARCH)
+
+|HENDERSON AUCKLAND|SATURDAY 23RD MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=HENDERSON%20-%20SATURDAY%2023RD%20MARCH) |
+
+|BELL BLOCK, NEW PLYMOUTH|SUNDAY 24TH MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=BELL%20BLOCK%20-%20SUNDAY%2024TH%20MARCH) |
