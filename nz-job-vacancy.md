@@ -3,12 +3,6 @@ Vacancies are available in the following locations:
 | Location | Date | Apply |
 |---|---|---|
 
-|BALCLUTHA|SATURDAY 9TH MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=BALCLUTHA%20-%20SATURDAY%209TH%20MARCH)
-
-|PAPAMOA, TAURANGA|SATURDAY 9TH MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=PAPAMOA%20-%20SATURDAY%209TH%20MARCH) |
-
-|PORIRUA|SATURDAY 9TH MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=PORIRUA%20-%20SATURDAY%209TH%20MARCH) |
-
 |ALEXANDRA|SATURDAY 16TH MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=ALEXANDRA%20-%20SATURDAY%2016TH%20MARCH)
 
 |BOTANY DOWNS, AUCKLAND|SATURDAY 16TH MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=BOTANY%20-%20SATURDAY%2016TH%20MARCH) |
@@ -20,3 +14,9 @@ Vacancies are available in the following locations:
 |HENDERSON AUCKLAND|SATURDAY 23RD MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=HENDERSON%20-%20SATURDAY%2023RD%20MARCH) |
 
 |BELL BLOCK, NEW PLYMOUTH|SUNDAY 24TH MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=BELL%20BLOCK%20-%20SUNDAY%2024TH%20MARCH) |
+
+|DANNEVIRKE|SATURDAY 6TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=DANNEVIRKE%20-%20SATURDAY%206TH%20APRIL)
+
+|DUNEDIN|SATURDAY 6TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=DUNEDIN%20-%20SATURDAY%206TH%20APRIL) |
+
+|WAIPAPA|SATURDAY 6TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=WAIPAPA%20-%20SATURDAY%206TH%20APRIL) |
