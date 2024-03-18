@@ -3,12 +3,6 @@ Vacancies are available in the following locations:
 | Location | Date | Apply |
 |---|---|---|
 
-|ALEXANDRA|SATURDAY 16TH MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=ALEXANDRA%20-%20SATURDAY%2016TH%20MARCH)
-
-|BOTANY DOWNS, AUCKLAND|SATURDAY 16TH MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=BOTANY%20-%20SATURDAY%2016TH%20MARCH) |
-
-|DARGAVILLE|SATURDAY 16TH MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=DARGAVILLE%20-%20SATURDAY%2016TH%20MARCH) |
-
 |TE KUITI|SATURDAY 23RD MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=TE%20KUITI%20-%20SATURDAY%2023RD%20MARCH)
 
 |HENDERSON AUCKLAND|SATURDAY 23RD MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=HENDERSON%20-%20SATURDAY%2023RD%20MARCH) |
@@ -19,4 +13,10 @@ Vacancies are available in the following locations:
 
 |DUNEDIN|SATURDAY 6TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=DUNEDIN%20-%20SATURDAY%206TH%20APRIL) |
 
-|WAIPAPA|SATURDAY 6TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=WAIPAPA%20-%20SATURDAY%206TH%20APRIL) |
+|WAIPAPA|SATURDAY 6TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=WAIPAPA%20-%20SATURDAY%206TH%20APRIL) | |
+
+|MATAMATA|SATURDAY 13TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=MATAMATA%20-%20SATURDAY%2013TH%20APRIL)
+
+|MOTUEKA|SATURDAY 13TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=MOTUEKA%20-%20SATURDAY%2013TH%20APRIL) |
+
+|wESTGATE|SATURDAY 13TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=WESTGATE%20-%20SATURDAY%2013TH%20APRIL) |
