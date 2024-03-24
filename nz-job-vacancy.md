@@ -3,12 +3,6 @@ Vacancies are available in the following locations:
 | Location | Date | Apply |
 |---|---|---|
 
-|TE KUITI|SATURDAY 23RD MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=TE%20KUITI%20-%20SATURDAY%2023RD%20MARCH)
-
-|HENDERSON AUCKLAND|SATURDAY 23RD MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=HENDERSON%20-%20SATURDAY%2023RD%20MARCH) |
-
-|BELL BLOCK, NEW PLYMOUTH|SUNDAY 24TH MARCH, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=BELL%20BLOCK%20-%20SUNDAY%2024TH%20MARCH) |
-
 |DANNEVIRKE|SATURDAY 6TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=DANNEVIRKE%20-%20SATURDAY%206TH%20APRIL)
 
 |DUNEDIN|SATURDAY 6TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=DUNEDIN%20-%20SATURDAY%206TH%20APRIL) |
@@ -20,3 +14,9 @@ Vacancies are available in the following locations:
 |MOTUEKA|SATURDAY 13TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=MOTUEKA%20-%20SATURDAY%2013TH%20APRIL) |
 
 |wESTGATE|SATURDAY 13TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=WESTGATE%20-%20SATURDAY%2013TH%20APRIL) |
+
+|HAMILTON|SATURDAY 20TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=HAMILTON%20-%20SATURDAY%2020TH%20APRIL)
+
+|RANGIORA|SATURDAY 20TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=RANGIORA%20-%20SATURDAY%2020TH%20APRIL) |
+
+|ROYAL OAK, AUCKLAND|SATURDAY 20TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=ROYAL%20OAK%20-%20SATURDAY%2020TH%20APRIL) |
