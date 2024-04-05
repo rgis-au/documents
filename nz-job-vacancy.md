@@ -3,12 +3,6 @@ Vacancies are available in the following locations:
 | Location | Date | Apply |
 |---|---|---|
 
-|DANNEVIRKE|SATURDAY 6TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=DANNEVIRKE%20-%20SATURDAY%206TH%20APRIL)
-
-|DUNEDIN|SATURDAY 6TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=DUNEDIN%20-%20SATURDAY%206TH%20APRIL) |
-
-|WAIPAPA|SATURDAY 6TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=WAIPAPA%20-%20SATURDAY%206TH%20APRIL) | |
-
 |MATAMATA|SATURDAY 13TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=MATAMATA%20-%20SATURDAY%2013TH%20APRIL)
 
 |MOTUEKA|SATURDAY 13TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=MOTUEKA%20-%20SATURDAY%2013TH%20APRIL) |
@@ -20,3 +14,10 @@ Vacancies are available in the following locations:
 |RANGIORA|SATURDAY 20TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=RANGIORA%20-%20SATURDAY%2020TH%20APRIL) |
 
 |ROYAL OAK, AUCKLAND|SATURDAY 20TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=ROYAL%20OAK%20-%20SATURDAY%2020TH%20APRIL) |
+
+
+|HORNBY, CHRISTCHURCH|SATURDAY 4TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=HORNBY%20-%20SATURDAY%204TH%20MAY)
+
+|MT WGTN, AUCKLAND |SATURDAY 4TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=LUNN%20AVE%20-%20SATURDAY%204TH%20MAY) |
+
+|MASTERTON|SATURDAY 4TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=MASTERTON%20-%20SATURDAY%204TH%20MAY) |
