@@ -3,14 +3,6 @@ Vacancies are available in the following locations:
 | Location | Date | Apply |
 |---|---|---|
 
-|HAMILTON|SATURDAY 20TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=HILLCREST%20-%20SATURDAY%2020TH%20APRIL)
-
-|RANGIORA|SATURDAY 20TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=RANGIORA%20-%20SATURDAY%2020TH%20APRIL) |
-
-|ROYAL OAK, AUCKLAND|SATURDAY 20TH APRIL, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=ROYAL%20OAK%20-%20SATURDAY%2020TH%20APRIL) |
-
-|MT WGTN, AUCKLAND |SATURDAY 4TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=LUNN%20AVE%20-%20SATURDAY%204TH%20MAY) |
-
 |MASTERTON|SATURDAY 4TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=MASTERTON%20-%20SATURDAY%204TH%20MAY) |
 
 |ROTORUA|SATURDAY 11TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=ROTORUA%20-%20SATURDAY%2011TH%20MAY) |
@@ -22,4 +14,12 @@ Vacancies are available in the following locations:
 |TOKOROA|SATURDAY 18TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=TOKOROA%20-%20SATURDAY%2018TH%20MAY) |
 
 |SILVERDALE|SATURDAY 18TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=SILVERDALE%20-%20SATURDAY%2018TH%20MAY) |
+
+|ASHBURTON|SATURDAY 25TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=ASHBURTON%20-%20SATURDAY%2025TH%20MAY)
+
+|HAMILTON, WELLINGTON|SATURDAY 25TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=HAMILTON%20-%20SATURDAY%2025TH%20MAY) |
+
+|UPPER HUTT|SATURDAY 25TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=UPPER%20HUTT%20-%20SATURDAY%2025TH%20MAY) |
+
+|LEVIN|SATURDAY 8TH JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=LEVIN%20-%20SATURDAY%208TH%20JUNE) |
 
