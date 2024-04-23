@@ -17,7 +17,7 @@ Vacancies are available in the following locations:
 
 |ASHBURTON|SATURDAY 25TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=ASHBURTON%20-%20SATURDAY%2025TH%20MAY)
 
-|HAMILTON, WELLINGTON|SATURDAY 25TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=HAMILTON%20-%20SATURDAY%2025TH%20MAY) |
+|HAMILTON|SATURDAY 25TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=HAMILTON%20-%20SATURDAY%2025TH%20MAY) |
 
 |UPPER HUTT|SATURDAY 25TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=UPPER%20HUTT%20-%20SATURDAY%2025TH%20MAY) |
 
