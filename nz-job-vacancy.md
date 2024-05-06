@@ -3,8 +3,6 @@ Vacancies are available in the following locations:
 | Location | Date | Apply |
 |---|---|---|
 
-|MASTERTON|SATURDAY 4TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=MASTERTON%20-%20SATURDAY%204TH%20MAY) |
-
 |ROTORUA|SATURDAY 11TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=ROTORUA%20-%20SATURDAY%2011TH%20MAY) |
 
 |GREYMOUTHH|SATURDAY 11TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=GREYMOUTH%20-%20SATURDAY%2011TH%20MAY)
@@ -22,4 +20,6 @@ Vacancies are available in the following locations:
 |UPPER HUTT|SATURDAY 25TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=UPPER%20HUTT%20-%20SATURDAY%2025TH%20MAY) |
 
 |LEVIN|SATURDAY 8TH JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=LEVIN%20-%20SATURDAY%208TH%20JUNE) |
+
+|HAMILTON|SATURDAY 8TH JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=HAMILTON%20-%20SATURDAY%208TH%20JUNE) |
 
