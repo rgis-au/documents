@@ -3,16 +3,6 @@ Vacancies are available in the following locations:
 | Location | Date | Apply |
 |---|---|---|
 
-|ROTORUA|SATURDAY 11TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=ROTORUA%20-%20SATURDAY%2011TH%20MAY) |
-
-|GREYMOUTHH|SATURDAY 11TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=GREYMOUTH%20-%20SATURDAY%2011TH%20MAY)
-
-|PETONE, WELLINGTON|SATURDAY 18TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=PETONE%20-%20SATURDAY%2018TH%20MAY) |
-
-|TOKOROA|SATURDAY 18TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=TOKOROA%20-%20SATURDAY%2018TH%20MAY) |
-
-|SILVERDALE|SATURDAY 18TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=SILVERDALE%20-%20SATURDAY%2018TH%20MAY) |
-
 |ASHBURTON|SATURDAY 25TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=ASHBURTON%20-%20SATURDAY%2025TH%20MAY)
 
 |HAMILTON|SATURDAY 25TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=HAMILTON%20-%20SATURDAY%2025TH%20MAY) |
@@ -22,4 +12,14 @@ Vacancies are available in the following locations:
 |LEVIN|SATURDAY 8TH JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=LEVIN%20-%20SATURDAY%208TH%20JUNE) |
 
 |HAMILTON|SATURDAY 8TH JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=HAMILTON%20-%20SATURDAY%208TH%20JUNE) |
+
+|ROLLESTON|SATURDAY 8TH JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=ROLLESTON%20-%20SATURDAY%208TH%20JUNE)
+
+|BLENHEIM|SATURDAY 15TH JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=BLENHEIM%20-%20SATURDAY%2015TH%20JUNE) |
+
+|MORRINSVILLE|SATURDAY 15TH JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=MORRINSVILLE%20-%20SATURDAY%2015TH%20JUNE) |
+
+|PARAPARAUMU|SATURDAY 15TH JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=PARAPARAUMU%20-%20SATURDAY%2015TH%20JUNE) |
+
+|THAMES|SATURDAY 22ND JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=THAMES%20-%20SATURDAY%2022ND%20JUNE) |
 
