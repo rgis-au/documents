@@ -3,12 +3,6 @@ Vacancies are available in the following locations:
 | Location | Date | Apply |
 |---|---|---|
 
-|ASHBURTON|SATURDAY 25TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=ASHBURTON%20-%20SATURDAY%2025TH%20MAY)
-
-|HAMILTON|SATURDAY 25TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=HAMILTON%20-%20SATURDAY%2025TH%20MAY) |
-
-|UPPER HUTT|SATURDAY 25TH MAY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=UPPER%20HUTT%20-%20SATURDAY%2025TH%20MAY) |
-
 |LEVIN|SATURDAY 8TH JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=LEVIN%20-%20SATURDAY%208TH%20JUNE) |
 
 |HAMILTON|SATURDAY 8TH JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=HAMILTON%20-%20SATURDAY%208TH%20JUNE) |
@@ -22,4 +16,10 @@ Vacancies are available in the following locations:
 |PARAPARAUMU|SATURDAY 15TH JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=PARAPARAUMU%20-%20SATURDAY%2015TH%20JUNE) |
 
 |THAMES|SATURDAY 22ND JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=THAMES%20-%20SATURDAY%2022ND%20JUNE) |
+
+|NEW PLYMOUTH|SATURDAY 6TH JULY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=NEW%20PLYMOUTH%20-%20SATURDAY%206TH%20JULY) |
+
+|aKLD AIRPORT|SATURDAY 13TH JULY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=AKLD%20AIRPORT%20-%20SATURDAY%2013TH%20JULY) |
+
+|LOWER HUTT|SATURDAY 13TH JULY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=LOWER%20HUTT%20-%20SATURDAY%2013TH%20JULY) |
 
