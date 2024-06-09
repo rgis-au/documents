@@ -3,12 +3,6 @@ Vacancies are available in the following locations:
 | Location | Date | Apply |
 |---|---|---|
 
-|LEVIN|SATURDAY 8TH JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=LEVIN%20-%20SATURDAY%208TH%20JUNE) |
-
-|HAMILTON|SATURDAY 8TH JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=HAMILTON%20-%20SATURDAY%208TH%20JUNE) |
-
-|ROLLESTON|SATURDAY 8TH JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=ROLLESTON%20-%20SATURDAY%208TH%20JUNE)
-
 |BLENHEIM|SATURDAY 15TH JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=BLENHEIM%20-%20SATURDAY%2015TH%20JUNE) |
 
 |MORRINSVILLE|SATURDAY 15TH JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=MORRINSVILLE%20-%20SATURDAY%2015TH%20JUNE) |
@@ -22,4 +16,10 @@ Vacancies are available in the following locations:
 |aKLD AIRPORT|SATURDAY 13TH JULY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=AKLD%20AIRPORT%20-%20SATURDAY%2013TH%20JULY) |
 
 |LOWER HUTT|SATURDAY 13TH JULY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=LOWER%20HUTT%20-%20SATURDAY%2013TH%20JULY) |
+
+|TE AWAMUTU|SATURDAY 13TH JULY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=TE%20AWAMUTU%20-%20SATURDAY%2013TH%20JULY) |
+
+|RICHMOND NELSON|SATURDAY 20TH JULY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=RICHMOND%20NELSON%20-%20SATURDAY%2020TH%20JULY) |
+
+|WHITIANGASATURDAY 20TH JULY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=WHITIANGA%20-%20SATURDAY%2020TH%20JULY) |
 
