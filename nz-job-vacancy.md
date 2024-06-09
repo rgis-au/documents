@@ -21,5 +21,5 @@ Vacancies are available in the following locations:
 
 |RICHMOND NELSON|SATURDAY 20TH JULY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=RICHMOND%20NELSON%20-%20SATURDAY%2020TH%20JULY) |
 
-|WHITIANGASATURDAY 20TH JULY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=WHITIANGA%20-%20SATURDAY%2020TH%20JULY) |
+|WHITIANGA|SATURDAY 20TH JULY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=WHITIANGA%20-%20SATURDAY%2020TH%20JULY) |
 
