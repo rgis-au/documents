@@ -2,7 +2,6 @@ Vacancies are available in the following locations:
 
 | Location | Date | Apply |
 |---|---|---|
-
 |BLENHEIM|SATURDAY 15TH JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=BLENHEIM%20-%20SATURDAY%2015TH%20JUNE) |
 |MORRINSVILLE|SATURDAY 15TH JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=MORRINSVILLE%20-%20SATURDAY%2015TH%20JUNE) |
 |PARAPARAUMU|SATURDAY 15TH JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=PARAPARAUMU%20-%20SATURDAY%2015TH%20JUNE) |
