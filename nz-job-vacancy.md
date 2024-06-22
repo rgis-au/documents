@@ -2,7 +2,6 @@ Vacancies are available in the following locations:
 
 | Location | Date | Apply |
 |---|---|---|
-|THAMES|SATURDAY 22ND JUNE, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=THAMES%20-%20SATURDAY%2022ND%20JUNE) |
 |NEW PLYMOUTH|SATURDAY 6TH JULY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=NEW%20PLYMOUTH%20-%20SATURDAY%206TH%20JULY) |
 |aKLD AIRPORT|SATURDAY 13TH JULY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=AKLD%20AIRPORT%20-%20SATURDAY%2013TH%20JULY) |
 |LOWER HUTT|SATURDAY 13TH JULY, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=LOWER%20HUTT%20-%20SATURDAY%2013TH%20JULY) |
@@ -12,3 +11,4 @@ Vacancies are available in the following locations:
 |PUKEKOHE|SATURDAY 3RD AUGUST, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=PUKEKOHE%20-%20SATURDAY%203RD%20AUGUST) |
 |WHANGAREI|SATURDAY 10TH AUGUST, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=WHANGAREI%20-%20SATURDAY%2010TH%20AUGUST) |
 |TIMARU|SATURDAY 10TH AUGUST, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=TIMARU%20-%20SATURDAY%2010TH%20AUGUST) |
+|PALMERSTON NORTH|SATURDAY 17TH AUGUST, 2024| [APPLY](mailto:tfaala@rgis.co.nz?subject=PALMERSTON%20NORTH%20-%20SATURDAY%2017TH%20AUGUST) |
