@@ -2,7 +2,7 @@ Vacancies are available in the following locations:
 
 | Location | Date | Apply |
 |---|---|---|
-|DARGAVILLE|SATURDAY 15TH MARCH, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=DARGAVILLE%20-%20SATURDAY%2015TH%20MARCH) |
+|DARGAVILLE|SATURDAY 15TH MARCH, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=DARGAVILLE |
 |MOTUEKA|SATURDAY 22ND MARCH, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=MOTUEKA%20-%20SATURDAY%2022ND%20MARCH) |
 |TE KUITI|SATURDAY 22ND MARCH, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=TE%20KUITI%20-%20SATURDAY%2022ND%20MARCH) |
 |WAIPAPA|SATURDAY 29TH MARCH, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=WAIPAPA%20-%20SATURDAY%2029TH%20MARCH) |
