@@ -2,8 +2,6 @@ Vacancies are available in the following locations:
 
 | Location | Date | Apply |
 |---|---|---|
-|RANGIORA|SATURDAY 5TH APRIL, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=RANGIORA%20-%20SATURDAY%205TH%20APRIL) |
-|DANNEVIRKE|SATURDAY 5TH APRIL, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=DANNEVIRKE%20-%20SATURDAY%205TH%20APRIL) |
 |ALEXANDRA|SATURDAY 12TH APRIL, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=ALEXANDRA%20-%20SATURDAY%2012TH%20APRIL) |
 |DUNEDIN|SATURDAY 3RD MAY, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=DUNEDIN%20-%20SATURDAY%203RD%20MAY) |
 |MASTERTON|SATURDAY 3RD MAY, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=MASTERTON%20-%20SATURDAY%203RD%20MAY) |
