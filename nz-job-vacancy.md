@@ -10,3 +10,4 @@ Vacancies are available in the following locations:
 |PETONE|SATURDAY 17TH MAY, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=PETONE%20-%20SATURDAY%2017TH%20MAY) |
 |UPPER HUTT|SATURDAY 24TH MAY, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=UPPER%20HUTT%20-%20SATURDAY%2024TH%20MAY) |
 |TE RAPA|SATURDAY 24TH MAY, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=TE%20RAPA%20-%20SATURDAY%2024TH%20MAY) |
+|BLENHEIM|SATURDAY 14TH JUNE, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=BLENHEIM%20-%20SATURDAY%2014TH%20JUNE) |
