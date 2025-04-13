@@ -2,7 +2,6 @@ Vacancies are available in the following locations:
 
 | Location | Date | Apply |
 |---|---|---|
-|ALEXANDRA|SATURDAY 12TH APRIL, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=ALEXANDRA%20-%20SATURDAY%2012TH%20APRIL) |
 |DUNEDIN|SATURDAY 3RD MAY, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=DUNEDIN%20-%20SATURDAY%203RD%20MAY) |
 |MASTERTON|SATURDAY 3RD MAY, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=MASTERTON%20-%20SATURDAY%203RD%20MAY) |
 |ROTORUA|SATURDAY 10TH MAY, 2025 | [APPLY](mailto:tfaala@rgis.co.nz?subject=ROTORUA%20-%20SATURDAY%2010TH%20MAY) |
@@ -12,3 +11,4 @@ Vacancies are available in the following locations:
 |TE RAPA|SATURDAY 24TH MAY, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=TE%20RAPA%20-%20SATURDAY%2024TH%20MAY) |
 |BLENHEIM|SATURDAY 14TH JUNE, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=BLENHEIM%20-%20SATURDAY%2014TH%20JUNE) |
 |PARAPARAUMU|SATURDAY 14TH JUNE, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=PARAPARAUMU%20-%20SATURDAY%2014TH%20JUNE) |
+|TAURANGA CROSSING|SATURDAY 28TH JUNE, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=TAURANGA520CROSSING%20-%20SATURDAY%2028TH%20JUNE) |
