@@ -2,8 +2,6 @@ Vacancies are available in the following locations:
 
 | Location | Date | Apply |
 |---|---|---|
-|DUNEDIN|SATURDAY 3RD MAY, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=DUNEDIN%20-%20SATURDAY%203RD%20MAY) |
-|MASTERTON|SATURDAY 3RD MAY, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=MASTERTON%20-%20SATURDAY%203RD%20MAY) |
 |ROTORUA|SATURDAY 10TH MAY, 2025 | [APPLY](mailto:tfaala@rgis.co.nz?subject=ROTORUA%20-%20SATURDAY%2010TH%20MAY) |
 |SILVERDALE|SATURDAY 17TH MAY, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=SILVERDALE%20-%20SATURDAY%2017TH%20MAY) |
 |TOKOROA|SATURDAY 17TH MAY, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=TOKOROA%20-%20SATURDAY%2017TH%20MAY) |
