@@ -8,3 +8,4 @@ Vacancies are available in the following locations:
 |THAMES|SATURDAY 05TH JULY, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=THAMES%20-%20SATURDAY%2005TH%20JULY) |
 |NEW PLYMOUTH|SATURDAY 05TH JULY, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=NEW%20PLYMOUTH%20-%20SATURDAY%2005TH%20JULY) |
 |TE AWAMUTU|SATURDAY 12TH JULY, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=TE%20AWAMUTU%20-%20SATURDAY%2012TH%20JULY) |
+|WHITIANGA|SATURDAY 19TH JULY, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=WHITIANGA%20-%20SATURDAY%2019TH%20JULY) |
