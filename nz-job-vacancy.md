@@ -2,8 +2,6 @@ Vacancies are available in the following locations:
 
 | Location | Date | Apply |
 |---|---|---|
-|BLENHEIM|SATURDAY 14TH JUNE, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=BLENHEIM%20-%20SATURDAY%2014TH%20JUNE) |
-|PARAPARAUMU|SATURDAY 14TH JUNE, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=PARAPARAUMU%20-%20SATURDAY%2014TH%20JUNE) | 
 |TAURANGA CROSSING|SATURDAY 28TH JUNE, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=TAURANGA%20CROSSING%20-%20SATURDAY%2028TH%20JUNE) |
 |THAMES|SATURDAY 05TH JULY, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=THAMES%20-%20SATURDAY%2005TH%20JULY) |
 |NEW PLYMOUTH|SATURDAY 05TH JULY, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=NEW%20PLYMOUTH%20-%20SATURDAY%2005TH%20JULY) |
