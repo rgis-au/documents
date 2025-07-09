@@ -2,7 +2,6 @@ Vacancies are available in the following locations:
 
 | Location | Date | Apply |
 |---|---|---|
-|TE AWAMUTU|SATURDAY 12TH JULY, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=TE%20AWAMUTU%20-%20SATURDAY%2012TH%20JULY) |
 |WHITIANGA|SATURDAY 19TH JULY, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=WHITIANGA%20-%20SATURDAY%2019TH%20JULY) |
 |RICHMOND|SATURDAY 19TH JULY, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=RICHMOND%20-%20SATURDAY%2019TH%20JULY) |
 |QUEENSTOWN|SATURDAY 26TH JULY, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=QUEENSTOWN%20-%20SATURDAY%2026TH%20JULY) |
@@ -11,3 +10,5 @@ Vacancies are available in the following locations:
 |FRASER COVE|SATURDAY 30TH AUGUST, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=FRASER%20COVE%20-%20SATURDAY%2030TH%20AUGUST) |
 |NELSON|SATURDAY 30TH AUGUST, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=NELSON%20-%20SATURDAY%2030TH%20AUGUST) |
 |HASTINGS|SATURDAY 06TH SEPTEMBER, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=HASTINGS%20-%20SATURDAY%2006TH%20SEPTEMBER) |
+|KAIKOHE|SATURDAY 13TH SEPTEMBER, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=KAIKOHE%20-%20SATURDAY%2013TH%20SEPTEMBER) |
+|TAUPO|SATURDAY 13TH SEPTEMBER, 2025| [APPLY](mailto:tfaala@rgis.co.nz?subject=TAUPO%20-%20SATURDAY%2013TH%20SEPTEMBER) |
