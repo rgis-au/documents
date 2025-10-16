@@ -11,3 +11,4 @@ Vacancies are available in the following locations:
 |PORIRUA|SATURDAY 08TH MARCH, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=PORIRUA%20-%20SATURDAY%2008TH%20MARCH) |
 |BALCLUTHA|SATURDAY 08TH MARCH, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=BALCLUTHA%20-%20SATURDAY%2008TH%20MARCH) |
 |DARGAVILLE|SATURDAY 14TH MARCH, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=DARGAVILLE%20-%20SATURDAY%2013TH%20MARCH) |
+|TE KUITI|SATURDAY 21ST MARCH, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=TE%20KUITI%20-%20SATURDAY%2021ST%20MARCH) |
