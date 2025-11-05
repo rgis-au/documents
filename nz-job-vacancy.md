@@ -4,7 +4,7 @@ Vacancies are available in the following locations:
 |---|---|---|
 |WHAKATANE|SAT 31ST JANUARY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=WHAKATANE%20-%20SATURDAY%2031ST%20JANUARY) |
 |WHANGANUI|SAT 14TH FEBRUARY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=WHANGANUI%20-%20SAT%2014TH%20FEBRUARY) |
-|OAMARU|SAT 14TH FEBRUARY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=OAMARU%20-%20SATURDAY%2014TH%20FEBRUARY
+|OAMARU|SAT 14TH FEBRUARY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=OAMARU%20-%20SAT%2014TH%20FEBRUARY) |
 |GISBORNE|SAT 01ST MARCH, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=GISBORNE%20-%20SATURDAY%2001ST%20MARCH) |
 |GORE|SAT 01ST MARCH, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=GORE%20-%20SATURDAY%2001ST%20MARCH) |
 |PAPAMOA|SAT 08TH MARCH, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=PAPAMOA%20-%20SATURDAY%2008TH%20MARCH) |
