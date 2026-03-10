@@ -2,8 +2,6 @@ Vacancies are available in the following locations:
 
 | Location | Date | Apply |
 |---|---|---|
-|PAPAMOA|SAT 08TH MARCH, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=PAPAMOA%20-%20SATURDAY%2008TH%20MARCH) |
-|PORIRUA|SAT 08TH MARCH, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=PORIRUA%20-%20SATURDAY%2008TH%20MARCH) |
 |BALCLUTHA|SAT 08TH MARCH, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=BALCLUTHA%20-%20SATURDAY%2008TH%20MARCH)|
 |DARGAVILLE|SAT 14TH MARCH, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=DARGAVILLE%20-%20SATURDAY%2013TH%20MARCH)|
 |TE KUITI|SAT 21ST MARCH, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=TE%20KUITI%20-%20SATURDAY%2021ST%20MARCH)|
@@ -12,3 +10,5 @@ Vacancies are available in the following locations:
 |MATAMATA|SAT 11TH APRIL, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=MATAMATA%20-%20SATURDAY%2011TH%20APRIL)|
 |HILLCREST|SAT 18TH APRIL, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=HILLCREST%20-%20SATURDAY%2018TH%20APRIL)|
 |ALEXANDRA|SAT 18TH APRIL, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=ALEXANDRA%20-%20SATURDAY%2018TH%20APRIL)|
+|MASTERTON|SAT 02ND MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=MASTERTON%20-%20SATURDAY%2002ND%20MAY)|
+|SOUTH DUNEDIN|SAT 02ND MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=SOUTH%20DUNEDIN%2002ND%20MAY)%20SATURDAY%2008TH%20MARCH).|
