@@ -13,3 +13,4 @@ Vacancies are available in the following locations:
 |ALEXANDRA|SAT 18TH APRIL, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=ALEXANDRA%20-%20SATURDAY%2018TH%20APRIL)|
 |MASTERTON|SAT 02ND MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=MASTERTON%20-%20SATURDAY%2002ND%20MAY)|
 |SOUTH DUNEDIN|SAT 02ND MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=SOUTH%20DUNEDIN%20-%20SATURDAY%2002%20MAY)|
+|ROTORUA|SAT 09TH MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=ROTORUA%20-%20SATURDAY%2009TH%20MAY)|
