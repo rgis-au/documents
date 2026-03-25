@@ -2,8 +2,6 @@ Vacancies are available in the following locations:
 
 | Location | Date | Apply |
 |---|---|---|
-|MOTUEKA|SAT 21ST MARCH, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=MOTUEKA%20-%20SATURDAY%2021ST%20MARCH)|
-|WAIPAPA|SAT 28TH MARCH, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=WAIPAPA%20-%20SATURDAY%2028TH%20MARCH)|
 |BELLBLOCK|SAT 28TH MARCH, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=BELLBLOCK%20-%20SATURDAY%2028TH%20MARCH)|
 |GREYMOUTH|SAT 28TH MARCH, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=GREYMOUTH%20-%20SATURDAY%2028TH%20MARCH)|
 |DANNIVIRKE|SAT 11TH APRIL, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=DANNIVIRKE%20-%20SATURDAY%2011TH%20APRIL)|
