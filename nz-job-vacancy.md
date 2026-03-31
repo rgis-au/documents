@@ -2,8 +2,6 @@ Vacancies are available in the following locations:
 
 | Location | Date | Apply |
 |---|---|---|
-|BELLBLOCK|SAT 28TH MARCH, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=BELLBLOCK%20-%20SATURDAY%2028TH%20MARCH)|
-|GREYMOUTH|SAT 28TH MARCH, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=GREYMOUTH%20-%20SATURDAY%2028TH%20MARCH)|
 |DANNIVIRKE|SAT 11TH APRIL, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=DANNIVIRKE%20-%20SATURDAY%2011TH%20APRIL)|
 |MATAMATA|SAT 11TH APRIL, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=MATAMATA%20-%20SATURDAY%2011TH%20APRIL)|
 |HILLCREST|SAT 18TH APRIL, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=HILLCREST%20-%20SATURDAY%2018TH%20APRIL)|
