@@ -12,3 +12,4 @@ Vacancies are available in the following locations:
 |SILVERDALE|SAT 16TH MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=SILVERDALE%20-%20SATURDAY%2016TH%20MAY)|
 |TOKOROA|SAT 16TH MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=SILVERDALE%20-%20SATURDAY%2016TH%20MAY)|
 |TE RAPA|SAT 23RD MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=TE%20RAPA%20-%20SATURDAY%2023%20MAY)|
+|ASHBURTON|SAT 23RD MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=ASHBURTON%20-%20SATURDAY%2023RD%20MAY)
