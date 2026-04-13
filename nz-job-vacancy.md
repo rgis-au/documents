@@ -2,12 +2,14 @@ Vacancies are available in the following locations:
 
 | Location | Date | Apply |
 |---|---|---|
+
 |DANNIVIRKE|SAT 11TH APRIL, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=DANNIVIRKE%20-%20SATURDAY%2011TH%20APRIL)|
 |MATAMATA|SAT 11TH APRIL, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=MATAMATA%20-%20SATURDAY%2011TH%20APRIL)|
+|WAIPAPA|SAT 18TH APRIL, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=WAIPAPA%20-%20SATURDAY%2018TH%20APRIL)|
 |HILLCREST|SAT 18TH APRIL, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=HILLCREST%20-%20SATURDAY%2018TH%20APRIL)|
 |ALEXANDRA|SAT 18TH APRIL, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=ALEXANDRA%20-%20SATURDAY%2018TH%20APRIL)|
 |MASTERTON|SAT 02ND MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=MASTERTON%20-%20SATURDAY%2002ND%20MAY)|
-|SOUTH DUNEDIN|SAT 02ND MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=SOUTH%20DUNEDIN%20-%20SATURDAY%2002%20MAY)|
+|SOUTH DUNEDIN|SAT 02ND MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=SOUTH%20DUNEDIN%20-%20SAT%2002%20MAY)|
 |ROTORUA|SAT 09TH MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=ROTORUA%20-%20SATURDAY%2009TH%20MAY)|
 |SILVERDALE|SAT 16TH MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=SILVERDALE%20-%20SATURDAY%2016TH%20MAY)|
 |TOKOROA|SAT 16TH MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=SILVERDALE%20-%20SATURDAY%2016TH%20MAY)|
