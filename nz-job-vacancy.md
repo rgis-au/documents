@@ -14,3 +14,4 @@ Vacancies are available in the following locations:
 |ASHBURTON|SAT 23RD MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=ASHBURTON%20-%20SATURDAY%2023RD%20MAY)
 |HAMILTON|SAT 06TH JUNE, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=HAMILTON%20-%20SATURDAY%2006TH%20JUNE)
 |LEVIN|SAT 06TH JUNE, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=LEVIN%20-%20SATURDAY%2006TH%20JUNE)
+|BLENHEIM|SAT 13TH JUNE, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=BLENHEIM%20-%20SATURDAY%2013TH%20JUNE)
