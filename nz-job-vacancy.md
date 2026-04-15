@@ -16,3 +16,4 @@ Vacancies are available in the following locations:
 |LEVIN|SAT 06TH JUNE, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=LEVIN%20-%20SATURDAY%2006TH%20JUNE)
 |BLENHEIM|SAT 13TH JUNE, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=BLENHEIM%20-%20SATURDAY%2013TH%20JUNE)
 |TAURANGA CROSSING|SAT 20TH JUNE, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=TAURANGA%20CROSSING%20-%20SATURDAY%2020%20JUNE)|
+|THAMES|SAT 27TH JUNE, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=THAMES%20-%20SATURDAY%2027TH%20JUNE)
