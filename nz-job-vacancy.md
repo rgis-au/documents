@@ -2,9 +2,6 @@ Vacancies are available in the following locations:
 
 | Location | Date | Apply |
 |---|---|---|
-|MASTERTON|SAT 02ND MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=MASTERTON%20-%20SATURDAY%2002ND%20MAY)|
-|SOUTH DUNEDIN|SAT 02ND MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=SOUTH%20DUNEDIN%20-%20SATURDAY%2002%20MAY)|
-|ROTORUA|SAT 09TH MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=ROTORUA%20-%20SATURDAY%2009TH%20MAY)|
 |SILVERDALE|SAT 16TH MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=SILVERDALE%20-%20SATURDAY%2016TH%20MAY)|
 |TOKOROA|SAT 16TH MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=SILVERDALE%20-%20SATURDAY%2016TH%20MAY)|
 |TE RAPA|SAT 23RD MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=TE%20RAPA%20-%20SATURDAY%2023%20MAY)|
