@@ -2,8 +2,6 @@ Vacancies are available in the following locations:
 
 | Location | Date | Apply |
 |---|---|---|
-|TE RAPA|SAT 23RD MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=TE%20RAPA%20-%20SATURDAY%2023%20MAY)|
-|ASHBURTON|SAT 23RD MAY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=ASHBURTON%20-%20SATURDAY%2023RD%20MAY)
 |HAMILTON|SAT 06TH JUNE, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=HAMILTON%20-%20SATURDAY%2006TH%20JUNE)
 |LEVIN|SAT 06TH JUNE, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=LEVIN%20-%20SATURDAY%2006TH%20JUNE)
 |PARAPARAUMU|SAT 13TH JUNE, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=ARAPARAUMU%20-%20SATURDAY%2013TH%20JUNE)
@@ -12,3 +10,5 @@ Vacancies are available in the following locations:
 |THAMES|SAT 27TH JUNE, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=THAMES%20-%20SATURDAY%2027TH%20JUNE)
 |NEW PLYMOUTH|SAT 27TH JUNE, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=NEW%20PLYMOUTH%20-%20SATURDAY%2720%20JUNE)|
 |TE AWAMUTU|SAT 04TH JULY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=TE%20AWAMUTU%20-%20SATURDAY%0420%20JULY)|
+|WHITIANGA|SAT 18TH JULY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=WHITIANGA%20-%20SATURDAY%1820%20JULY)|
+|RICHMOND|SAT 18TH JULY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=WHITIANGA%20-%20SATURDAY%1820%20JULY)|
