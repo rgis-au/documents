@@ -9,3 +9,5 @@ Vacancies are available in the following locations:
 |TE AWAMUTU|SAT 04TH JULY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=TE%20AWAMUTU%20-%20SATURDAY%0420%20JULY)|
 |WHITIANGA|SAT 18TH JULY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=WHITIANGA%20-%20SATURDAY%1820%20JULY)|
 |RICHMOND|SAT 18TH JULY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=WHITIANGA%20-%20SATURDAY%1820%20JULY)|
+|PUKEKOHE|SAT 08TH AUGUST, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=WHITIANGA%20-%20SATURDAY%0820%20AUGUST)|
+|PALMERSTON NORTH|SAT 08TH AUGUST, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=PALMERSTON%20NORTH%20-%20SATURDAY%0820%20AUGUST)|
