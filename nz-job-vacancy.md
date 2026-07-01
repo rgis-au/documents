@@ -2,9 +2,6 @@ Vacancies are available in the following locations:
 
 | Location | Date | Apply |
 |---|---|---|
-|TAURANGA CROSSING|SAT 20TH JUNE, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=TAURANGA%20CROSSING%20-%20SATURDAY%2020%20JUNE)|
-|THAMES|SAT 27TH JUNE, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=THAMES%20-%20SATURDAY%2027TH%20JUNE)
-|NEW PLYMOUTH|SAT 27TH JUNE, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=NEW%20PLYMOUTH%20-%20SATURDAY%2720%20JUNE)|
 |TE AWAMUTU|SAT 04TH JULY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=TE%20AWAMUTU%20-%20SATURDAY%0420%20JULY)|
 |WHITIANGA|SAT 18TH JULY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=WHITIANGA%20-%20SATURDAY%1820%20JULY)|
 |RICHMOND|SAT 18TH JULY, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=WHITIANGA%20-%20SATURDAY%1820%20JULY)|
