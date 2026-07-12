@@ -9,3 +9,5 @@ Vacancies are available in the following locations:
 |WHANGAREI|SAT 15TH AUGUST, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=WHITIANGA%20-%20SATURDAY%1520%20AUGUST)|
 |TIMARU|SAT 15TH AUGUST, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=WHITIANGA%20-%20SATURDAY%1520%20AUGUST)|
 |FRASER COVE|SAT 29TH AUGUST, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=FRASER%20COVE%20-%20SATURDAY%2920%20AUGST)|
+|HASTINGS|SAT 05TH SEPTEMBER, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=HASTINGS%20-%20SATURDAY%0520%20SEPTEMBER)|
+|NELSON|SAT 05TH SEPTEMBER, 2026| [APPLY](mailto:tfaala@rgis.co.nz?subject=NELSON%20-%20SATURDAY%0520%20SEPTEMBER)|
